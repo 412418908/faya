@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<job>
+    <input type="file" folder="d:/tmp/toftp" filenames="*.*" />
+    <output type="file" folder="d:/tmp/1" filename="${filename}-$seq" maxsize="10M"/>
+
+
+</job>
+
